@@ -1,7 +1,0 @@
-<?
-/*gati dengan auto refres kalian*/
-
-$refres = "AEu4IL3fWkfpDanIrFkWNsC1yAvwHgBO5P9JxS6cGjvRzqvRs4qWTVje5v9d988XT2nI02XPPE5BY9FOBN7NFgTnDRhZUG3GZCSarhmTin9JUPHpLXqcDJ66oVlHK8dQT8TinxzAkcoig1okUBapfsMaJSx0t1l154UqB7YWynARU75LbZfI4rAeKN_6LUEtMSx2tG5DYmV6htnLQxLrT7M5rpz-F8y2jMntzNv2uAbOqDulWd2DhDJ4JbI8p_eDY4AiJ9nvD0EWDRSG_UUAV4wVgl-bxslCkI6z2czb2-aPfh1xGgGTS5EcBSy3efl7g4cKld9Vhq-A2O-TU-5nX6Bov0MpNm41n82YfCDRGk5St-CoSp8Zn9aTUSSXvIJywLhdQK69DESXfLXoI3gu3Kkoy1k0hyFsLr_Tu4V7t41IfnzuS5baEow";
-
-/*link pas https://semawur.com/vn3ER2a       */
-$pass_scrip = "pongpong";
